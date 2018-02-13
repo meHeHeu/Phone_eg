@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Phone_eg</string>
+
+    <string name="tel">tel:%s</string>
+    <string name="number_hint">Number</string>
+    <string name="msg_hint">Message</string>
+    <string name="send_label">Send</string>
+    <string name="call_label">Call</string>
+    <string name="sent_toastText">Sent!</string>
+    <string name="failedToSend_toastText">Failed to send!</string>
+
+    <string name="unansweredCall_toastText">Unanswered call</string>
+    <string name="reportState_toastText">Last state: %s\nCurrent state: %s</string>
+    <string name="reportStateRinging_toastText">Incoming number: %s\nLast state: %s\nCurrent state: %s</string>
+
+    <string name="lastCallTimeNotRegisteredYet">Last call time: None registered yet</string>
+    <string name="lastRingingTimeNotRegisteredYet">Last ringing time: None registered yet</string>
+    <string name="lastCallTime">Last call time: %.2f</string>
+    <string name="lastRingingTime">Last ringing time: %.2f</string>
+
+    <string name="lastReceivedSmsBodyNone">Last received message:\nNone</string>
+    <string name="lastReceivedSmsBody">Last received message:\n%s\n</string>
+    <string name="lastReceivedSmsOriginNumberNone">Origin:</string>
+    <string name="lastReceivedSmsOriginNumber">Origin: %s</string>
+</resources>
